@@ -1,11 +1,14 @@
 
-
 <h1 align="center">Hi 👋, I'm Swarnima Gupta</h1>
 <h3 align="center">Optimistic, hard-working and motivated with a will to learn. Begineer in programming languages such as C++, Python and HTML. Dedicated and enthusiastic. Aiming to leverage proven interpersonal, multitasking and teamwork skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnima-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="swarnima-gupta" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/Swarnima-Gupta](https://github.com/Swarnima-Gupta)
+
 - 📫 How to reach me **swarnima1411gupta@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/guptaswarnima](www.linkedin.com/in/guptaswarnima)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
