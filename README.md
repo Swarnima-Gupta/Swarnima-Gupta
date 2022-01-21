@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Swarnima Gupta</h1>
 <h3 align="center">Optimistic, hard-working and motivated with a will to learn. Begineer in programming languages such as C++, Python and HTML. Dedicated and enthusiastic. Aiming to leverage proven interpersonal, multitasking and teamwork skills.</h3>
